@@ -1,4 +1,4 @@
-Microsoft-LinkedIn Open Letter: Requesting Inclusion of Our Completed Connections' Contact Info in Basic_LinkedInDataExport.zip
+Microsoft-LinkedIn Open Letter: Requesting Inclusion of Our Complete Connections' Contact Info in Basic_LinkedInDataExport.zip
 
 Dear Microsoft-LinkedIn Acceptable-Use Policy Maker,
 
@@ -7,7 +7,7 @@ Cards Exchange" model. I would access my connections' contact info (email,
 phone) to interact with them *outside* of LinkedIn, a process I call
 "LinkingOut." This model is crucial for many LinkedIn members.
 
-I developed a Python package called "myLinkedIn" --
+I have developed a Python package called "myLinkedIn" --
 https://github.com/bisos-pip/myLinkedIn. It converts LinkedIn exported data into
 vCards, one for each connection, optionally augmented with contact info.
 
@@ -52,4 +52,4 @@ Additional information is available at: https://github.com/bisos-pip/myLinkedIn/
 
 Sincerely,
 
-Mohsen Banan --- linkedin@mohsen.1.banan.byname.net --- June 19, 2025
+Mohsen Banan --- linkedin@mohsen.1.banan.byname.net --- June 26, 2025
